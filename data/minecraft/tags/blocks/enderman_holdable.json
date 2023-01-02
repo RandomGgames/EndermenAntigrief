@@ -1,23 +1,4 @@
 {
 	"replace": true,
-	"values": [
-		"minecraft:allium",
-		"minecraft:azure_bluet",
-		"minecraft:blue_orchid",
-		"minecraft:brown_mushroom",
-		"minecraft:cornflower",
-		"minecraft:crimson_fungus",
-		"minecraft:crimson_roots",
-		"minecraft:dandelion",
-		"minecraft:lily_of_the_valley",
-		"minecraft:orange_tulip",
-		"minecraft:oxeye_daisy",
-		"minecraft:pink_tulip",
-		"minecraft:poppy",
-		"minecraft:red_mushroom",
-		"minecraft:red_tulip",
-		"minecraft:warped_fungus",
-		"minecraft:warped_roots",
-		"minecraft:white_tulip"
-	]
+	"values": []
 }
