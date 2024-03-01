@@ -1,6 +1,6 @@
 {
 	"pack": {
-		"pack_format": 10,
-		"description": "Makes it so Endermen no longer pick up blocks or wither roses. Created by RandomGgames."
+		"pack_format": 25,
+		"description": "Makes it so Endermen no longer pick up anything. Created by RandomGgames."
 	}
 }
