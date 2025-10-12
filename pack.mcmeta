@@ -1,6 +1,10 @@
 {
 	"pack": {
-		"pack_format": 71,
-		"description": "Makes it so Endermen no longer pick up anything. Created by RandomGgames."
+		"description": "Makes it so Endermen no longer pick up anything. Created by RandomGgames.",
+		"pack_format": 88,
+		"supported_formats": [
+			48,
+			88
+		]
 	}
 }
